@@ -1,0 +1,35 @@
+{
+  "Direito Constitucional" :{
+  "codigo": 1,
+  "ativo": true,
+  "professor" : null,
+  "questoes_favoritas": 
+  [
+  1,
+  35,
+  40
+  ]
+  },
+  
+  "Direito Processual Civil" :{
+  "codigo": 2,
+  "ativo": true,
+  "professor" : "Cristiana Costa",
+  "questoes_favoritas": null
+  },
+  
+   "Direito Penal" :{
+  "codigo": 3,
+  "ativo": true,
+  "professor" : "Amanda Bezerra",
+  "questoes_favoritas": null
+  },
+  
+   "Direito Processual Penal" :{
+  "codigo": 4,
+  "ativo": true,
+  "professor" : "Felipe Barbosa",
+  "questoes_favoritas": null
+  }
+  
+}
