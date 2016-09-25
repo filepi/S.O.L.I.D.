@@ -5,7 +5,7 @@
   "codigo": 1,  
   "descricao": "Direito Constitucional",
   "ativo": true,
-  "professor" : null,
+  "professor" : "Cristiana Costa",
   "questoes_favoritas": 
   [
   1,
@@ -17,7 +17,7 @@
   "codigo": 2,  
   "descricao": "Direito Penal",
   "ativo": true,
-  "professor" : null,
+  "professor" : "Amanda Bezerra",
   "questoes_favoritas": 
   [
   1,
