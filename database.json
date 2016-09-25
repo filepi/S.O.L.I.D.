@@ -1,6 +1,9 @@
 {
-  "Direito Constitucional" :{
-  "codigo": 1,
+"Materias" :
+[
+{
+  "codigo": 1,  
+  "descricao": "Direito Constitucional",
   "ativo": true,
   "professor" : null,
   "questoes_favoritas": 
@@ -9,27 +12,26 @@
   35,
   40
   ]
-  },
-  
-  "Direito Processual Civil" :{
-  "codigo": 2,
+},
+{
+  "codigo": 2,  
+  "descricao": "Direito Penal",
   "ativo": true,
-  "professor" : "Cristiana Costa",
-  "questoes_favoritas": null
-  },
-  
-   "Direito Penal" :{
-  "codigo": 3,
+  "professor" : null,
+  "questoes_favoritas": 
+  [
+  1,
+  22,
+  1
+  ]
+},
+{
+  "codigo": 3,  
+  "descricao": "Direito Processual Civil",
   "ativo": true,
-  "professor" : "Amanda Bezerra",
+  "professor" : null,
   "questoes_favoritas": null
-  },
-  
-   "Direito Processual Penal" :{
-  "codigo": 4,
-  "ativo": true,
-  "professor" : "Felipe Barbosa",
-  "questoes_favoritas": null
-  }
-  
+}
+
+]
 }
